@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "name": "Jaipur Restaurants",
+  "launch_path": "/index.html",
+  "description": "A Guide to top 10 restautrants in Jaipur.",
+  "icons": {
+    "128": "launcher-icon-8x.png"
+  },
+  "developer": {
+    "name": "",
+    "url": ""
+  },
+  "installs_allowed_from": [
+    "*"
+  ],
+  "default_locale": "en",
+  "permissions": {
+  },
+  "locales": {
+    "en": {
+      "name": "Jaipur Restaurants",
+      "description": "A front-end template that helps you build fast, modern mobile web apps."
+    }
+  },
+  "display": "standalone",
+  "background_color": "#3E4EB8",
+  "theme_color": "#2F3BA2"
+}
