@@ -1,6 +1,6 @@
 {
-  "short_name": "Jodhpur-Delight",
-  "name": "Top Ten Places In Jodhpur",
+  "short_name": "JD",
+  "name": "Jodhpur Delight",
   "icons": [
     {
       "src": "launcher-icon.png",
@@ -23,9 +23,9 @@
       "type": "image/png"
     }
   ],
-  "start_url": "./",
+  "Scope": "/",
+  "start_url": "/",
   "display": "standalone",
-  "orientation": "portrait",
   "theme_color": "#20567a",
   "background_color": "#20567a"
 }
